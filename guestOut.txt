@@ -1,0 +1,17 @@
+                              ***HAPPY HOLIDAYS RESORT INN***
+                                       BILLING REPORT
+
+     GUEST                 NIGHTS   ROOM    TOTAL      TOTAL      TOTAL
+     NAME                           TYPE    ROOM       TELEPHONE  CHARGE
+                                            CHARGE     CHARGE     (8.5% TAX INC)
+
+     Syd Barrett              12    L       $1309.00       $29.89    $1452.70
+     Hillary Clinton           4    S        $211.00      $104.12     $341.91
+     Mike Huckabee             5    S        $237.38       $23.64     $283.21
+     Roger Waters             10    D        $650.26       $48.88     $758.57
+     Bill Clinton             98    L      $10531.50      $228.95   $11675.09
+     Dan Curran                9    L       $1011.50       $18.16    $1117.18
+     David Gilmour            11    D        $722.51       $87.35     $878.70
+     Ken Shabby                3    S        $158.25       $10.62     $183.22
+     Bob Barker               46    S       $2189.17       $36.73    $2415.10
+     Shrubber McDubbers        2    L        $238.00      $105.39     $372.58
